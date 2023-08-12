@@ -1,0 +1,12 @@
+[
+	{
+		"keys": ["i", "i"],
+		"command": "exit_insert_mode",
+		"context":
+		[
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
+		]
+	},
+	{ "keys": ["ctrl+d", "ctrl+d"], "command": "toggle_side_bar" },
+]
